@@ -1,0 +1,7 @@
+1000_Kubilay Can_Bilgisayar Muhendisligi_X15X50X
+1001_Ismail Eroglu_Elektrik Muhendisligi_X
+1002_Emir Ulusoy_Makine Muhendisligi_X
+1003_Muhammed Sekerci_Makine Muhendisligi_X
+1004_Omer Faruk Keklik_Bilgisayar Muhendisligi_X
+1005_Aydin Yildiz_Elektrik Muhendisligi_X
+1006_Arif Demirel_Elektrik Muhendisligi_X
